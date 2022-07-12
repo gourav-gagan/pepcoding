@@ -5,12 +5,12 @@ using namespace std;
 //time O(log n)
 bool isPrime(int n)
 {
-    //special cases of 2
-    if (n==2)
-        return true;
+    //special case of 1
+    if (n==1)
+        return false;
 
     //observe all the divisors/factors of n are in pairs
-    //factors(12) : 1 2 3 4 6 12 : (1*12) (2*6) (3*4) i.e loop upto inclusive 3 only i.e. sqrt(12)
+    //factors(12) : 1 2 3 4 6 12 : (1*12) (2*6) (3*4) i.e loop upto 3 only i.e. sqrt(12)
     //we check divisors from 2 to inclusive sqrt(n)
     for (int i=2; i<=sqrt(n); i++)
         if (n%i == 0)
