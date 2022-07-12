@@ -1,0 +1,8 @@
+TO DO:
+    Segmented Sieves
+
+
+Day 1:
+    Primality Test
+    Sieve of Erotosthenes
+    
