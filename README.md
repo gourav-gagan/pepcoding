@@ -3,8 +3,8 @@
 
 Day 1:
   Done:
-    Primality Test
-    Sieve of Erotosthenes [Prime upto n]
+  Primality Test
+  Sieve of Erotosthenes [Prime upto n]
   To Do:
-    Segmented Sieve [prime upto range]
+  Segmented Sieve [prime upto range]
   
