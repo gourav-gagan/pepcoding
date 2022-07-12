@@ -2,6 +2,9 @@
 30 day pepcoding
 
 Day 1:
-  ~~~Primality Test~~
-  ~~Sieve of Erotosthenes~~
+  Done:
+    Primality Test
+    Sieve of Erotosthenes [Prime upto n]
+  To Do:
+    Segmented Sieve [prime upto range]
   
