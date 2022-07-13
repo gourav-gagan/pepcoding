@@ -8,4 +8,9 @@ Day 1:
     Matrix Diagonals
     Fibonacci Series
     Pascals Triangle
+
+Day 2:
+    Reverse Number (contant space)
+    GCD (division method) & LCM
+    Prime Factorisation
     
