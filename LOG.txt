@@ -3,6 +3,9 @@ TO DO:
 
 
 Day 1:
-    Primality Test
+    Primality Test 
     Sieve of Erotosthenes
+    Matrix Diagonals
+    Fibonacci Series
+    Pascals Triangle
     
