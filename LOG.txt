@@ -13,4 +13,11 @@ Day 2:
     Reverse Number (contant space)
     GCD (division method) & LCM
     Prime Factorisation
+    Pythagorean Triplet https://www.pepcoding.com/resources/online-java-foundation/getting-started/pythagorean_triplet/topic
+    Benjamin Bulbs https://www.pepcoding.com/resources/online-java-foundation/getting-started/benjamin-bulbs-official/ojquestion
+    Increment and Decrement Operators
     
+Day 3:
+    Number System
+    Base Conversion
+    Base Addition
