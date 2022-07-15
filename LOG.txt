@@ -23,4 +23,4 @@ Day 3:
     Base Addition
     Base Subtraction
     Base Multiplication
-    Max, Min, Span of Array
+    Bar Chart https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/bar-chart-official/ojquestion
