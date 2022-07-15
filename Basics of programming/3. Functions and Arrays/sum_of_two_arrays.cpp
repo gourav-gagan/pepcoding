@@ -42,6 +42,11 @@ int main()
             carry = 0;
         }
     }
+
+    if (carry)
+    {
+        cout<<carry<<endl;
+    }
     for (int it : sum)
     {
         cout<<it<<endl;
