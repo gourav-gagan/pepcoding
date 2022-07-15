@@ -1,5 +1,7 @@
 TO DO:
     Segmented Sieves
+    Pascals Triangle alt
+    Binary Search Recursive
 
 
 Day 1:
@@ -31,4 +33,7 @@ Day 3:
 Day 4:
     Roatate array https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/rotate-an-array-official/ojquestion
     Inverse number using array https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/inverse-of-an-array-official/ojquestion
+    Subarrays https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/subarray-problem-official/ojquestion
+    Binary Search
+    Broken Economy (Floor Ceil) https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/ceil-floor-official/ojquestion
 
