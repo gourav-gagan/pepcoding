@@ -23,5 +23,4 @@ Day 3:
     Base Addition
     Base Subtraction
     Base Multiplication
-    Max Min Span of Array
-    
+    Max, Min, Span of Array
