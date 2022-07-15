@@ -1,5 +1,5 @@
 //https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/ceil-floor-official/ojquestion
-
+//linear time (unoptimized)
 #include<iostream>
 using namespace std;
 
