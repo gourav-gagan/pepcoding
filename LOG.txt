@@ -24,3 +24,5 @@ Day 3:
     Base Subtraction
     Base Multiplication
     Bar Chart https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/bar-chart-official/ojquestion
+    Large Sum using arrays https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/sum-of-two-arrays-official/ojquestion
+    
