@@ -8,6 +8,7 @@ Day 1:
     Matrix Diagonals
     Fibonacci Series
     Pascals Triangle
+    Inverse Number //https://www.pepcoding.com/resources/online-java-foundation/getting-started/inverse-of-a-number-official/ojquestion
 
 Day 2:
     Reverse Number (contant space)
@@ -24,5 +25,10 @@ Day 3:
     Base Subtraction
     Base Multiplication
     Bar Chart https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/bar-chart-official/ojquestion
-    Large Sum using arrays https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/sum-of-two-arrays-official/ojquestion
-    
+    Sum using arrays https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/sum-of-two-arrays-official/ojquestion
+    Difference using arrays https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/difference-of-two-arrays-official/ojquestion
+
+Day 4:
+    Roatate array https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/rotate-an-array-official/ojquestion
+    Inverse number using array https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/inverse-of-an-array-official/ojquestion
+
