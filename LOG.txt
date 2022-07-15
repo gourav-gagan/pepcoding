@@ -21,3 +21,4 @@ Day 3:
     Number System
     Base Conversion
     Base Addition
+    Base Subtraction
