@@ -59,5 +59,5 @@ int main()
         }
     }
 
-    cout<<first_index<<" "<<last_index;
+    cout<<first_index<<endl<<last_index;
 }
