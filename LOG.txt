@@ -36,4 +36,5 @@ Day 4:
     Subarrays https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/subarray-problem-official/ojquestion
     Binary Search
     Broken Economy (Floor Ceil) https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/ceil-floor-official/ojquestion
+    First and Last Index https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays/first-index-last-index-official/ojquestion
 
