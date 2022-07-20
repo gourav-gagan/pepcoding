@@ -1,5 +1,5 @@
 //https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get-subsequence-official/ojquestion
-//subsequence = subset
+//subsequence = subset of string
 //abc
 //[, c, b, bc, a, ac, ab, abc]
 #include <iostream>
