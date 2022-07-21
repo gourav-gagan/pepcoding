@@ -3,9 +3,8 @@ TO DO:
     Pascals Triangle alt
     Binary Search Recursive
     Ring Rotate
-    Saddle price https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/saddle-price-official/ojquestion
-    Binary Search in 2d vector
-    Permutations and Combinations
+    Saddle price(revise) https://www.pepcoding.com/resources/online-java-foundation/2d-arrays/saddle-price-official/ojquestion
+    Permutations and Combinations + all Permutations of of string ques
 
 
 Day 1:
@@ -56,6 +55,16 @@ Day 6:
     Factorial of number
     Remove prime from vector https://www.pepcoding.com/resources/online-java-foundation/string,-string-builder-and-arraylist/remove-primes-official/ojquestion
 
+Day 7:
+    Factorial
+    Power of number Recursive (linear and logarithmic)
+    
+Day 8:
+    Recursion: Pre, In, Post, Post, Euler Path
+    Tower of Hanoi
+    Recurion on an array
+    Subsequence (subsets of string) https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get-subsequence-official/ojquestion
+    
 
 
 
