@@ -64,7 +64,13 @@ Day 8:
     Tower of Hanoi
     Recurion on an array
     Subsequence (subsets of string) https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get-subsequence-official/ojquestion
+    KeyPad Combinations https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get-kpc-official/ojquestion
+    Stairs Path //https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get-stair-paths-official/ojquestion
+    Maze paths https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get-maze-paths-official/ojquestion
+    Maze paths with jumps https://www.pepcoding.com/resources/online-java-foundation/recursion-with-arraylists/get-maze-path-with-jumps-official/ojquestion
     
+    
+Dynamic programming:
 
-
-
+Day 10:
+    

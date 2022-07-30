@@ -4,6 +4,13 @@
         "iostream": "cpp",
         "cmath": "cpp",
         "string_view": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "string": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp",
+        "variant": "cpp",
+        "deque": "cpp"
     }
 }
