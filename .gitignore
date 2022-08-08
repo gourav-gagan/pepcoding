@@ -1,3 +1,4 @@
 .vscode/c_cpp_properties.json
 *.exe
 .vscode/settings.json
+CPP_BOILERPLATE.cpp
